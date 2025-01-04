@@ -2,7 +2,7 @@
 
 🎓 **Master's degree in Computer Science** | 💻 Passionate about **Software Development**, **AI**, and **Data Visualization**  
 
-I love creating impactful software solutions and exploring innovative technologies in **Machine Learning**, **Sustainability**, and **Climate Tech**.
+I love creating impactful software solutions and exploring innovative technologies in **Machine Learning**, **Artificial Intelligence**, **Sustainability**, **Medical Industry**, **Health Care**, and **Climate Tech**.
 
 ---
 
@@ -12,14 +12,15 @@ I love creating impactful software solutions and exploring innovative technologi
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)  
-  **D3.js**, **CSS**
+  ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+  ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 
 - **Frameworks/Tools**:  
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) 
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-  **Temporal**
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+  ![Temporal](https://img.shields.io/badge/-Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
 
 - **Interests**:  
   - Machine Learning
@@ -74,7 +75,7 @@ Designed interactive visualizations for global development insights using D3.js 
 
 ---
 
-## 🌱 Fun Facts
+## ⍢ Fun Facts
 
 - 🔭 I’m currently exploring **Generative AI** projects.  
 - 🌱 I’m constantly learning **new frameworks and tools** to improve my development skills.  
