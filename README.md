@@ -24,7 +24,7 @@
   Created interactive visualizations for insights using D3.js and CSS.
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/xianghaosuc)
 [![GitHub](https://img.shields.io/github/followers/Xiang-Suc?style=social)](https://github.com/Xiang-Suc)
 
 ## 📈 GitHub Stats
