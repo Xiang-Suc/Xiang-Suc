@@ -8,20 +8,29 @@
 - **Interests**: Machine Learning, Sustainability, Climate Tech
 
 ## 🌟 Notable Projects
-- [🌐 Internal SaaS Travel Agency System](https://github.com/Xiang-Suc/Travel-Agency-System)  
-  Automated business expense approvals & ticketing, used by 1200+ employees.
-  
-- [🏠 House Price Prediction](https://github.com/Xiang-Suc/House-price-prediction)
-  Built a machine learning model to predict house prices based on various features through data analysis and predictive modeling.
-  
-- [🖥️ Covid-19 Infection Rate Tracker](https://github.com/Xiang-Suc/Covid-Rate-Tracker)
-  Developed an interactive tracker to monitor and visualize COVID-19 rates across regions using real-time data.
 
-- [🚗 Karting Game](https://github.com/Xiang-Suc/Karting_Game)
-  Created a 3D kart racing game with interactive gameplay, custom physics, and dynamic environments.
-  
-- [📊 Global Development Insights Visualization Dashboard](https://github.com/Xiang-Suc/Global-Development-Insights-Dashboard)  
-  Created interactive visualizations for insights using D3.js and CSS.
+### [🌐 Internal SaaS Travel Agency System](https://github.com/Xiang-Suc/Travel-Agency-System)  
+Automated business expense approvals and ticketing, improving efficiency for over 1200 employees.
+
+---
+
+### [🏠 House Price Prediction](https://github.com/Xiang-Suc/House-price-prediction)  
+Built a machine learning model to predict house prices using data analysis and predictive modeling techniques.
+
+---
+
+### [🖥️ Covid-19 Infection Rate Tracker](https://github.com/Xiang-Suc/Covid-Rate-Tracker)  
+Developed an interactive tracker to monitor and visualize COVID-19 infection rates across regions using real-time data.
+
+---
+
+### [🚗 Karting Game](https://github.com/Xiang-Suc/Karting_Game)  
+Created a 3D kart racing game featuring interactive gameplay, custom physics, and dynamic environments.
+
+---
+
+### [📊 Global Development Insights Visualization Dashboard](https://github.com/Xiang-Suc/Global-Development-Insights-Dashboard)  
+Designed interactive visualizations for global development insights using D3.js and CSS.
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/xianghaosuc)
